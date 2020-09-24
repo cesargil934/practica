@@ -1,0 +1,12 @@
+{
+    "name": "cesar",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_LAPTOP-7UQOL7PO.json",
+            "credentialsFile": "flows_LAPTOP-7UQOL7PO_cred.json"
+        }
+    }
+}
